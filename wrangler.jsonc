@@ -25,7 +25,7 @@
     {
       "binding": "DB",
       "database_name": "sub-store-cloudflare",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "00000000-00000006-00005101-c7078e2934a1487e86e9261c391ec7ec",
       "migrations_dir": "cloudflare/migrations"
     }
   ],
